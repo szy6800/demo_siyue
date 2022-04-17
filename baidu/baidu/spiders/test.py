@@ -7,5 +7,7 @@ print('2')
 print('hot')
 print('分支')
 print('push')
+print('et')
 print('et1')
 print('et22')
+
